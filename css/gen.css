@@ -790,7 +790,7 @@ body {
 
 .div-equipe1 img {
     width: 100%;
-    height: fit-content;
+    height: auto;
     object-fit: cover;
     display: block;
     border-radius: 25px;
@@ -816,7 +816,7 @@ body {
 
 .div-equipe3 img {
     width: 100%;
-    height: fit-content;
+    height: auto;
     object-fit: cover;
     display: block;
     border-radius: 25px;
